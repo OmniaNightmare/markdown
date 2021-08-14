@@ -1,6 +1,10 @@
 # Команды <font color="#FF4500">Git</font>
 
-<center><img src="img/md.png" height=250px></center>
+<img src="img\2018-07-28_21_11_02.gif" height=250px>
+<br>
+<hr>
+<img src="img/md.png" height=250px>
+
 
 ## Основные команды Git
 + [git add](pages/git_add.md)
