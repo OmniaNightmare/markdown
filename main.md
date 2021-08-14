@@ -1,7 +1,5 @@
 # Команды <font color="#FF4500">Git</font>
-
-<img src="img\2018-07-28_21_11_02.gif" height=250px>
-<br>
+<img src="img\512px-Git-logo.svg.png" height=250px>
 <hr>
 <img src="img/md.png" height=250px>
 
